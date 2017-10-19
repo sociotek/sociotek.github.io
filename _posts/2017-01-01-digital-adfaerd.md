@@ -12,9 +12,10 @@ Formålet med oplægget og workshoppen er at give gymnasieleverne en større for
 
 Kompetenceudbyttet for eleverne bliver følgende: 
 - at forstå hvad der er god brug af sociale medier
-- at forholde sig kritisk til at deltage i kommunikation som borgere i et digitalt og demokratisk samfund
 - at blive sig bevidst omkring omfanget af digitale fodspor 
 - at få værktøjer til at begrænse deres digitale fodspor
+- at forholde sig kritisk til at deltage i kommunikation som borgere i et digitalt og demokratisk samfund
+
 
 
 
