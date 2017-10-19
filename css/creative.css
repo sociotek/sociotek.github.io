@@ -276,10 +276,10 @@ header .header-content .header-content-inner p {
     text-align: center;
     color: #fff;
 
-    background: rgba(240,95,64,.5);
+    /*background: rgba(240,95,64,.5);
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
-    transition: all .35s;
+    transition: all .35s;*/
 }
 
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content {
@@ -309,6 +309,11 @@ header .header-content .header-content-inner p {
 
 .portfolio-box:hover .portfolio-box-caption {
     opacity: 1;
+}
+
+.portfolio-box-description {
+    padding: 0 15px;
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
 }
 
 @media(min-width:768px) {
