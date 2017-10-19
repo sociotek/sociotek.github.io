@@ -1,2 +1,4 @@
 collections:
   portfolio:
+
+permalink: /:title/
