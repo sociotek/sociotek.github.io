@@ -9,3 +9,9 @@ Digital Adfærd handler i store træk om, hvordan vi i dag bruger medierne og hv
 
 
 Målet med oplægget og workshoppen er at opnå en større forståelse for hvordan de sociale medier fungerer, samt være bevidst om omfanget af digitale fodspor, for at kunne tage kritisk afsæt når man vurderer sin deltagelse som borger i et digitalt og demokratisk samfund.
+
+
+#H1 Digital Adfærd - for lærere og undervisere
+
+
+Formålet med dette foredrag er, at klæde underviserne godt på til at forstå, hvilke spilleregler mediernes sætter for 
