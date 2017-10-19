@@ -2,5 +2,5 @@
 image_path: /img/portfolio/2.jpg
 category: Digital Adfærd
 project_name: introduktion
-link: https://apple.com
+link: https://dr.dk
 ---
