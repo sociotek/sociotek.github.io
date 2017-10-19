@@ -1,6 +1,6 @@
 ---
 image_path: /img/portfolio/4.jpg
-category: Web Design
-project_name: Uber
+category: Workshop
+project_name: Sikker kommunikation på nettet
 link: https://uber.com
 ---
