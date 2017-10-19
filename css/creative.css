@@ -290,7 +290,7 @@ header .header-content .header-content-inner p {
     text-align: center;
     transform: translateY(-50%);
 }
-
+// Mikkel fixer lige det her.
 .portfolio-box .portfolio-box-imgbox {
     max-height:325px;
     overflow: hidden;
