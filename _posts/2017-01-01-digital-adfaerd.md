@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Digital adfærd
+permalink: /digital-adfaerd
 ---
 # Digital Adfærd - for gymnasieelever
 
