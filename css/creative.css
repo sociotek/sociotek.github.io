@@ -291,6 +291,23 @@ header .header-content .header-content-inner p {
     transform: translateY(-50%);
 }
 
+.portfolio-box .portfolio-box-imgbox {
+    max-height:325px;
+    overflow: hidden;
+}
+.portfolio-box .portfolio-box-description {
+    padding: 0px 5px;
+    height: 75px;
+    font-size: 17px;
+    border-right: 1px lightgrey solid;
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    color: black;
+    position: relative;
+    text-align: left;
+    overflow:hidden;
+        
+}
+
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category,
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
     padding: 0 15px;
