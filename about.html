@@ -8,14 +8,20 @@ title: Om os
 			<div class="col-lg-8 col-lg-offset-2 text-center">
 				<h2 class="section-heading">Hvem er vi?</h2>
 				<hr class="light">
-				<p class="text-faded">Sofus Albertsen</p>
-				<p class="text-faded">MSc i Softwareudvikling fra IT-Universitetet</p>
-				<p class="text-faded">Sofus har en teknisk baggrund, men har i bredt omfang funderet sin interesse omkring de sociale aspekter af den tekniske udvikling, herunder emner som overvågning, tracking og data  </p>
-				<p class="text-faded">Mikkel Villebro</p>
-				<p class="text-faded">BA i Digitale Medier og Design fra IT-Universitetet</p>
-				<p class="text-faded">Josefine Grunnet</p>
-				<p class="text-faded">MSc i Digital Design og Kommunikation fra IT-Universitetet</p>
-				<p class="text-faded">Med specialisering i Digital Democratic Citizenship har Josefine fokuseret sin interesse omkring de sociale udfordringer af digitaliseringen, samt spændingsfeltet mellem menneskelig udvikling og teknologi.</p>
+				<div class="row">
+					{% for person in site.people %}
+					<div class="col-lg-4 text-center">
+						{% if person.image_path %}
+						<img src="{{person.image_path}}" alt="" class="img-responsive"></img>
+						{% endif %}
+					<h3>{{ person.name }}</h3>
+					<p class="text-faded">{{ person.profession }}</p>
+					<p class="text-faded">{{ person.description }}</p>
+					</div>
+					{% endfor %}
+					</div>
+				</div>
+
 			</div>
 		</div>
 	</div>
