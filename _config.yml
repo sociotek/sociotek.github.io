@@ -1,2 +1,5 @@
 collections:
   portfolio:
+
+
+permalink: /side/:title/
