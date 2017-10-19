@@ -2,4 +2,4 @@ collections:
   portfolio:
 
 
-permalink: /:title/
+permalink: /page/:title/
