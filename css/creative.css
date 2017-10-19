@@ -311,7 +311,8 @@ header .header-content .header-content-inner p {
     opacity: 1;
 }
 
-.portfolio-box-description {
+.portfolio-box . portfolio-box-caption .portfolio-box-description {
+    height: 75px;
     padding: 0 15px;
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
 }
