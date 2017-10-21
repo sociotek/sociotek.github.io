@@ -301,7 +301,12 @@ header .header-content .header-content-inner p {
     overflow: hidden;
 }
 
-
+.img-rep {
+    Height: 325px;
+    overflow: hidden;
+    width: 100%;
+    display:block;
+}
 
 //tester redigering af class img-responsivt lokalt for dette.
 /* --- Giver endnu ikke noget resultat, skal sansynligvis slettes, men står her til jeg har fundet en løsning.
