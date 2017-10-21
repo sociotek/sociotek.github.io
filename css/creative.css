@@ -36,6 +36,10 @@ a:focus {
     color: #eb3812;
 }
 
+a:link {
+    text-decoration: none;
+}
+
 h1,
 h2,
 h3,
@@ -61,7 +65,7 @@ p {
 }
 
 .text-faded {
-    color: rgba(255,255,255,.7);
+    color: rgba(255,255,255,.8);
 }
 
 section {
@@ -264,7 +268,7 @@ header .header-content .header-content-inner p {
     position: relative;
     margin: 0 auto;
     max-width: 650px;
-    height: 400px;
+    max-height: 400px;
 }
 
 .portfolio-box .portfolio-box-caption {
@@ -305,6 +309,10 @@ header .header-content .header-content-inner p {
     text-align: left;
     overflow:hidden;
         
+}
+
+.portfolio-box .portfolio-box-caption:hover {
+    background-color: rgba(255,255,255,.2);
 }
 
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category,
