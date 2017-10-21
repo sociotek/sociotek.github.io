@@ -299,6 +299,14 @@ header .header-content .header-content-inner p {
     max-height:325px;
     overflow: hidden;
 }
+
+//tester redigering af class img-responsivt lokalt for dette.
+
+.portfolio-box .portfolio-box-imgbox .img-responsive {
+    max-height: 325px;
+    overflow:hidden;
+}
+
 .portfolio-box .portfolio-box-description {
     padding: 0px 5px;
     height: 75px;
