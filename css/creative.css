@@ -297,11 +297,6 @@ header .header-content .header-content-inner p {
 // Mikkel fixer lige det her.
 
 .portfolio-box-imgbox {
-    
-    background-image: url({{ portfolio_item.image_path }});
-    background-repeat: no-repeat;
-    background-size: cover;
-    
     height:325px;
     overflow: hidden;
 }
