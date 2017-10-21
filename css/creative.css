@@ -296,15 +296,14 @@ header .header-content .header-content-inner p {
 }
 // Mikkel fixer lige det her.
 
-.portfolio-box-imgbox {
-    height:325px;
+.portfolio-box .portfolio-box-imgbox {
+    height: 325px;
     overflow: hidden;
 }
 
 .img-rep {
-    Height: 325px;
     overflow: hidden;
-    width: 100%;
+    max-width: 100%;
     display:block;
 }
 
