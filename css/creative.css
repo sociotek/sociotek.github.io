@@ -298,7 +298,7 @@ header .header-content .header-content-inner p {
 
 .portfolio-box-imgbox {
     
-    background-image: url(" {{ portfolio_item.image_path }} ");
+    background-image: url({{ portfolio_item.image_path }});
     background-repeat: no-repeat;
     background-size: cover;
     
