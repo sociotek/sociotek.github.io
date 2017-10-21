@@ -312,6 +312,11 @@ header .header-content .header-content-inner p {
     overflow: hidden;
 }
 
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    max-height:325px;
+    overflow: hidden;
+}
+
 .portfolio-box .portfolio-box-description {
     padding: 0px 5px;
     height: 75px;
