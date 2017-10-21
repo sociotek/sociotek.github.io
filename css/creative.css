@@ -302,6 +302,7 @@ header .header-content .header-content-inner p {
     overflow: hidden;
     max-width: 100%;
     display:block;
+    color:blue; /*checker for updatering af site*/
 }
 
 .portfolio-box .portfolio-box-imgbox .img-rep {
