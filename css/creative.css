@@ -307,6 +307,11 @@ header .header-content .header-content-inner p {
     overflow:hidden;
 }
 
+.img-responsive {
+    max-height: 325px;
+    overflow: hidden;
+}
+
 .portfolio-box .portfolio-box-description {
     padding: 0px 5px;
     height: 75px;
