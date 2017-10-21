@@ -296,10 +296,7 @@ header .header-content .header-content-inner p {
 }
 // Mikkel fixer lige det her.
 
-.portfolio-box .portfolio-box-imgbox {
-    height: 325px;
-    overflow: hidden;
-}
+
 
 .img-rep {
     overflow: hidden;
@@ -307,23 +304,11 @@ header .header-content .header-content-inner p {
     display:block;
 }
 
-//tester redigering af class img-responsivt lokalt for dette.
-/* --- Giver endnu ikke noget resultat, skal sansynligvis slettes, men står her til jeg har fundet en løsning.
-.portfolio-box .portfolio-box-imgbox .img-responsive {
-    max-height: 325px;
-    overflow:hidden;
-}
-
-.img-responsive {
-    max-height: 325px;
+.portfolio-box .portfolio-box-imgbox .img-rep {
+    height: 325px;
     overflow: hidden;
 }
 
-.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
-    max-height:325px;
-    overflow: hidden;
-}
-*/
 .portfolio-box .portfolio-box-description {
     padding: 0px 5px;
     height: 75px;
