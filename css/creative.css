@@ -63,7 +63,9 @@ p {
     color: #fff;
     background-color: #222;
 }
-
+.course-img {
+    margin: 0 auto;
+}
 .text-faded {
     color: rgba(255,255,255,.8);
 }
