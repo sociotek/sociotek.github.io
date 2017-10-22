@@ -2,7 +2,6 @@
 layout: course
 title: Overvåget
 permalink: /overvaaget
-short_description:
 duration: 1 time
 price: 2500
 seats: 30
