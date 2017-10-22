@@ -2,11 +2,10 @@
 layout: course
 title: Din smartphone som sladrehank
 permalink: /smartphone-snitch
-short_description:
-duration: 1 time
+duration: 50 minutter
 price: 2500
 seats: 30
-photo: /img/cameras.gif
+photo: /img/portfolio/1.jpg
 ---
 
 Vi går alle sammen rundt med en smartphone i lommen, der hele tiden sladrer om, hvor man er henne, hvem man er sammen med, og hvad man siger og gør. 
