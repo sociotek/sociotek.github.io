@@ -4,12 +4,13 @@ title: Foredrag og workshops
 ---
 <section class="no-padding" id="portfolio">
 	<div class="container-fluid">
+		<br>
 		<div class="row no-gutter">
 			{% for portfolio_item in site.portfolio %}
-				<div class="col-lg-4 col-sm-6">
+				<div class="col-lg-4 col-sm-6 col-sm-offset-1">
 					<a href="{{ portfolio_item.link }}" class="portfolio-box">
 						<div class="portfolio-box-imgbox">
-						<img src="{{ portfolio_item.image_path }}" class="img-rep" alt="">
+						<img src="{{ portfolio_item.image_path }}" class="img-rep img-responsive" alt="">
 						</div>
 						<div class="portfolio-box-caption">
 							<div class="portfolio-box-caption-content">
