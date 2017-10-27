@@ -5,7 +5,7 @@ permalink: /digi-adfaerd-kurus
 duration: 1 Time og 30 minutter
 price: 2500
 seats: 30
-photo: /img/portfolio/digitaladfærd704.jpg
+photo: /img/portfolio/sladrehank.jpg
 ---
 
 Har du nogensinde overvejet hvad samfundets storforbrug af digitale medier har af konsekvenser? Hvorfor du oplever en form for tilfredsstillelse når du får en besked eller notifikation? Hvordan virksomheder som Facebook tjener penge og hvilke informationer der konstant indsamles og sælges om dig?
