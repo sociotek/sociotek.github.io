@@ -1,5 +1,5 @@
 ---
-image_path: http://via.placeholder.com/650x325
+image_path: /img/sladrehank.jpg
 category: Teknisk foredrag
 project_name: Din smartphone som sladrehank
 link: /smartphone-snitch
