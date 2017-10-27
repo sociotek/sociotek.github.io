@@ -269,8 +269,7 @@ header .header-content .header-content-inner p {
     display: block;
     position: relative;
     margin: 0 auto;
-    max-width: 650px;
-    max-height: 400px;
+   
 }
 
 .portfolio-box .portfolio-box-caption {
@@ -296,7 +295,7 @@ header .header-content .header-content-inner p {
     text-align: center;
     transform: translateY(-50%);
 }
-// Mikkel fixer lige det her.
+/* Mikkel fixer lige det her.*/
 
 
 
@@ -308,7 +307,7 @@ header .header-content .header-content-inner p {
 }
 
 .portfolio-box .portfolio-box-imgbox .img-rep {
-    height: 325px;
+   /* height: 325px;*/
     overflow: hidden;
 }
 
