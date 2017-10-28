@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: course
 title: Digital Adfærd intro
 permalink: /digi-adfaerd-kurus
 duration: 1 Time og 30 minutter
