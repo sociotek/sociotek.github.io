@@ -14,7 +14,7 @@ Digital Adfærd handler i store træk om, hvilke digitale fodspor vi efterlader,
 Formålet med oplægget og workshoppen er, at give gymnasieleverne en større forståelse for mediernes logik og hvordan de sociale medier fungerer, samt øge deres bevidsthed i forhold til omfanget af digitale fodspor. Vi ønsker at give eleverne mulighed for at tage et informeret og kritisk afsæt, når de videre skal vurdere deres inviduelle deltagelse som borger i et digitalt og demokratisk samfund. Derudover får eleverne en række værktøjer stillet, således at de kan begrænse netop disse digitale fodspor og data. Foredraget er struktureret som et lige dele foredrag og praktisk workshop med konkret inddragelse af eleverne.
 
 
-Oplægget om digital adfærd er oprindeligt udarbejdet i samarbejde med kommunikationsafdelingen på IT-Universitetet. For gymnasier henvises der således til IT-Universitetet for mere information. Øvrige henvendelser sker til SocioTek
+Oplægget om digital adfærd er oprindeligt udarbejdet i samarbejde med kommunikationsafdelingen på IT-Universitetet. For gymnasier henvises der således til [IT-Universitetet for mere information](https://www.itu.dk/om-itu/presse/nyheder/2017/itu-workshop-goer-teenagere-til-mere-reflekterede-medieforbrugere). Øvrige henvendelser sker til SocioTek
 
 ## Digital Adfærd - for lærere og undervisere
 
