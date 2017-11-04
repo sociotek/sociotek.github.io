@@ -5,7 +5,7 @@ permalink: /sikker-kommunikation
 duration: 2 Timer
 price: 3000
 seats: 30
-photo: /img/portfolio/sikkerkommunikation.jpg
+photo: /img/portfolio/digitaladfærd704.jpg
 ---
 Internettet og alle dets tjenester er idag vores primære redskab til kommunikation. Vi bruger nettet til at finde diverse informationer, nyheder og generel inspiration. Vi bruger det til at kommunikere med hinanden via besked applikationer, som Facebooks messenger er et strålende eksempel på. Vi bruger det til at dele materialer og i stigende grad nu også billeder på diverse platforme som Snapchat og Instagram. 
 
